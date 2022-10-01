@@ -18,7 +18,7 @@ const helloWorld = () => {
 }
 ```
 
-## **languages and Techs:**  
+## **Languages and Techs:**  
 
 <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
