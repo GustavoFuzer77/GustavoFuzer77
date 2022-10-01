@@ -41,7 +41,11 @@ const helloWorld = () => {
 ## **GitHub statics**
 
 <a href="https://github.com/GustavoFuzer77">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFuzer77&theme=dracula&hide_langs_below=1" alt="GustavoFuzer77 github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFuzer77&theme=dracula&hide_langs_below=1"/>
+</a>
+
+<a href="https://github.com/GustavoFuzer77">
+  <img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?GustavoFuzer77"/>
 </a>
 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?GustavoFuzer77" frameborder="0"></iframe>
