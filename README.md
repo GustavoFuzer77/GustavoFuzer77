@@ -48,6 +48,10 @@ const helloWorld = () => {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoFuzer77&show_icons=true&theme=dracula&line_height=27" alt="GustavoFuzer77 github stats"/>
 </a>
 
+<a href="https://github.com/GustavoFuzer77">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoFuzer77&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&&line_height=27" alt="GustavoFuzer77 github stats"/>
+</a>
+
 ![Gustavo Fuzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoFuzer77&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
