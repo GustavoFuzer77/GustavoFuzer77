@@ -8,10 +8,13 @@
 
 ```javascript
 const helloWorld = () => {
- let name = 'Gustavo Fernando Fuzer'
+ const name = 'Gustavo Fernando Fuzer'
  let acknowledgements = "FRONT-END && BACK-END"
+ let learning = ['Prisma', 'GraphQl', 'Docker']
  let techs = ['React','React Native','Javascript','Typescript', 'NodeJS']
-  return 
+ let toCreateTheFuture = techs.push(learning)
+ 
+  return toCreateTheFuture
 }
 ```
 
