@@ -44,7 +44,7 @@ const helloWorld = () => {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFuzer77&theme=dracula&hide_langs_below=1"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFuzer77&layout=compact)]
 
 <a href="https://github.com/GustavoFuzer77">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoFuzer77&show_icons=true&theme=dracula&line_height=27" alt="GustavoFuzer77 github stats"/>
