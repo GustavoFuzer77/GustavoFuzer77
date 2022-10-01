@@ -41,7 +41,7 @@ const helloWorld = () => {
 ## **GitHub statics**
 
 <a href="https://github.com/GustavoFuzer77">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFuzer77&theme=dracula&hide_langs_below=1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFuzer77&theme=dracula"/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFuzer77&layout=compact)]
