@@ -18,7 +18,7 @@ const helloWorld = () => {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **languages and Techs:**  
 
 <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
@@ -35,7 +35,7 @@ const helloWorld = () => {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub statics**
 
 <a href="https://github.com/GustavoFuzer77">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFuzer77&theme=dracula&hide_langs_below=1" alt="GustavoFuzer77 github stats"/>
