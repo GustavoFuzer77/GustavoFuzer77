@@ -48,7 +48,6 @@ const helloWorld = () => {
   <img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?GustavoFuzer77"/>
 </a>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?GustavoFuzer77" frameborder="0"></iframe>
 
 <a href="https://github.com/GustavoFuzer77">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoFuzer77&show_icons=true&theme=dracula&line_height=27" alt="GustavoFuzer77 github stats"/>
