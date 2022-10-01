@@ -1,6 +1,9 @@
 ### Hello, Devs!  👋
 
-"A long journey of a thousand miles begins with the movement of one foot." - Lao Tzu.
+> "A long journey of a thousand miles begins with the movement of one foot." - Lao Tzu.
+
+🔭 currently working at TDPSISTEMAS.
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me 🔥
 
