@@ -15,7 +15,7 @@ const helloWorld = () => {
  const name = 'Gustavo Fernando Fuzer'
  let acknowledgements = "FRONT-END && BACK-END"
  let learning = ['Prisma', 'GraphQl', 'Docker']
- let techs = ['React','React Native','NextJs',Javascript','Typescript', 'NodeJS']
+ let techs = ['React','React Native','NextJs','Javascript','Typescript', 'NodeJS']
  let toCreateTheFuture = techs.push(learning)
  
   return toCreateTheFuture
