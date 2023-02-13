@@ -12,9 +12,9 @@
 
 ```javascript
 const helloWorld = () => {
- const name = 'Gustavo Fernando Fuzer'
- let acknowledgements = "FRONT-END && BACK-END"
- let learning = ['Prisma', 'GraphQl', 'Docker']
+ const name = 'Gustavo Fuzer'
+ let acknowledgements = "FRONT-END && BACK-END && MOBILE"
+ let learning = ['Prisma', 'Java', 'Docker']
  let techs = ['React','React Native','NextJs','Javascript','Typescript', 'NodeJS']
  let toCreateTheFuture = techs.push(learning)
  
